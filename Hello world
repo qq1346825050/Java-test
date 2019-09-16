@@ -1,0 +1,8 @@
+package com.test;//包名
+
+public class HellowDemo_1 {
+
+	public static void main(String[] args) {
+		System.out.println("Hellow world");
+	}
+}
